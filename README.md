@@ -29,6 +29,5 @@ CSS            56 mins         █░░░░░░░░░░░░░░░�
 
  <!-- github streak start -->
 
-<img width=320 src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek9503&layout=compact"  />
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=harshvardhan-212&theme=dark" alt="GitHub Streak" /></a>
 <!-- github streak end -->
